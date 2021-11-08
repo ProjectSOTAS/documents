@@ -1,5 +1,6 @@
-SOTAS'ın YAYGIN ETKİSİ
-Projemiz, üniversite öğrencilerinin notlandırılmasında izlenen farklı bir yolun uygulamasıdır. 
-Bu, eğitim ve öğretimde yenilikçi yaklaşımların biz öğrenciler tarafından desteklenmesi bakımından oldukça önemlidir. 
-Projemizin başka bir etkisi de; elde olan son başarılı uygulamanın, ilgili derslerimizde notlandırmak için kullanılabilecek olmasıdır.
-Notlandırma alanında yeterli proje bulunmadığından dolayı bu alanda proje geliştirmek isteyen kimselere ilham olacaktır.
+                                                         SOTAS'ın YAYGIN ETKİSİ
+| Yaygın Etki Türleri   | Projeden Beklenen Sonuç ve Etkiler |
+| ------------- | ------------- |
+| Bilimsel/Akademik   |  Projemiz, üniversite öğrencilerinin notlandırılmasında izlenen farklı bir yolun uygulamasıdır. Bu nedenle  eğitim ve öğretimde yenilikçi yaklaşımların, biz öğrenciler tarafından desteklenmesi bakımından oldukça büyük önem taşır. Projemizin başarılı olması durumunda okulumuz Uludağ Üniversitesi'ne ait internet sitesi için bir makale ve sunum hazırlanabilir.|
+| Ekonomik/Ticari/Sosyal  | Projemizin sonunda çıkaracağımız başarılı uygulamanın ilgili derslerimizde notlandırmak için kullanılması planlanıyor. Bu alandaki başarılı uygulamaların sayısı oldukça az bir miktarda, bu nedenle  projemizin istenilen başarıya ulaşması durumunda, patentlenebilir olması düşünülmektedir. Bu farklı notlandırma sistemine açık eğitim ve öğretim kurumlarının kullanımına sunulacaktır.  |
+| Araştırmacı Yetiştirilmesi ve Yeni Proje(ler) Oluşturma  | Öğrenciyi notlandırma alanında yeterli proje bulunmadığından dolayı projemizin, bu alanda proje geliştirmek isteyen araştırmacılara zemin hazırlayacağı düşünülmektedir. Aynı zamanda projemiz, ekibindeki lisans öğrencileri için bir sınav niteliği taşır.  |
