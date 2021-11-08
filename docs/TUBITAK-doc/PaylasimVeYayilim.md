@@ -1,3 +1,4 @@
+                                      Proje Paylaşımı ve Yayılımı
 | Faaliyet Türü | Paydaş/Potansiyel Kullanıcılar | Faaliyetin Zamanı ve Süresi |
 | :---         |     :---:      |          ---: |
 | Grup Toplantısı | Ekip üyeleri, Ekip lideri | Proje başlangıcından itibaren her hafta çarşamba günü |
