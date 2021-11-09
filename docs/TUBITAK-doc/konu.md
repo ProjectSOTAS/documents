@@ -1,7 +1,4 @@
-<!-- Proje önerisinde ele alınan konunun kapsamı ve sınırları, projenin araştırma sorusu veya problemi açık bir şekilde ortaya
-konulmalı. -->
-
-# KONU
+# 3. Konu
 
 Öğrencilerin öğrenim gördüğü derslerden iyi verim alabilmeleri, tecrübe ve kazanım elde etmeleri öğretmenlerin verdiği projelere doğrudan bağlıdır. Projelerin öğretmen tarafından incelenerek eksik ve hatalarını öğrencilere bildirmesi de bir o kadar önemlidir.
 
