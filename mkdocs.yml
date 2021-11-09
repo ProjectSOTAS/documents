@@ -1,23 +1,20 @@
 site_name: Project SOTAS
-site_url: https://projectsotas.github.io/
+site_url: https://projectsotas.github.io/documents/
 
 theme: 
   name: material
   locale: en
   language: en
 
-  # logo: logo.png
-  # favicon: ../assets/logo.png
   icon:
     repo: fontawesome/brands/github
 
   features:
-    - navigation.expand
     - navigation.instant
     - navigation.tracking
-    # - navigation.indexes
+    - navigation.indexes
     - navigation.top
-
+    
   palette:
     scheme: default
     primary: cyan
@@ -28,10 +25,6 @@ docs_dir: ./docs
 site_dir: ./build
 
 strict: true
-
-markdown_extensions:
-    - toc:
-        separator: "_"
 
 extra:
   generator: false
