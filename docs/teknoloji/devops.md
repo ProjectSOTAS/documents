@@ -1,4 +1,4 @@
-# SOTAS DevOps Dokümantasyonu
+# DevOps
 
 ## Nedir bu DevOps?
 
