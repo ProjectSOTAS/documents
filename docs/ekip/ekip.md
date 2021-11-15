@@ -87,7 +87,7 @@
 - [Tamamlanan Backend Issue'ları](https://github.com/ProjectSOTAS/backend/issues?q=is%3Aissue+is%3Aclosed+assignee%3Amertkaratekin)
 - [Tamamlanan Frontend Issue'ları](https://github.com/ProjectSOTAS/frontend/issues?q=is%3Aissue+is%3Aclosed+assignee%3Amertkaratekin)
 
-### [Ömer Öz](https://github.com/OzOmer16) - Frontend
+### [Ömer ÖZ](https://github.com/OzOmer16) - Frontend
 - Frontend Ekip Lideri
 - Ekip #7 Lideri
 - [Tamamlanan Dokümantasyon Issue'ları](https://github.com/ProjectSOTAS/documents/issues?q=is%3Aissue+is%3Aclosed+assignee%3AOzOmer16)
@@ -118,7 +118,7 @@
 - [Tamamlanan Backend Issue'ları](https://github.com/ProjectSOTAS/backend/issues?q=is%3Aissue+is%3Aclosed+assignee%3Autku89)
 - [Tamamlanan Frontend Issue'ları](https://github.com/ProjectSOTAS/frontend/issues?q=is%3Aissue+is%3Aclosed+assignee%3Autku89)
 
-### [Zekeriya Ay](https://github.com/ZekeriyaAY) - Frontend
+### [Zekeriya AY](https://github.com/ZekeriyaAY) - Frontend
 - Ekip #8 Lideri
 - [Tamamlanan Dokümantasyon Issue'ları](https://github.com/ProjectSOTAS/documents/issues?q=is%3Aissue+is%3Aclosed+assignee%3AZekeriyaAY)
 - [Tamamlanan Backend Issue'ları](https://github.com/ProjectSOTAS/backend/issues?q=is%3Aissue+is%3Aclosed+assignee%3AZekeriyaAY)

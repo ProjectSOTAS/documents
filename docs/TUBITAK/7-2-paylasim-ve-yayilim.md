@@ -1,4 +1,4 @@
-                                      Proje Paylaşımı ve Yayılımı
+# 7.2. Proje Paylaşımı ve Yayılımı
 | Faaliyet Türü | Paydaş/Potansiyel Kullanıcılar | Faaliyetin Zamanı ve Süresi |
 | :---         |     :---:      |          ---: |
 | Proje Dokümantasyon Sitesi | Akademik araştırmacılar, lisans öğrencileri, ekip yönetimi uygulayan şirketler, konu hakkında bilgi sahibi olmak isteyen akademi dışından bireyler | Proje başlangıcından itibaren |

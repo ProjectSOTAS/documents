@@ -1,4 +1,4 @@
-                                                         SOTAS'ın YAYGIN ETKİSİ
+# 7.1. Projeden Beklenen Yaygın Etki
 | Yaygın Etki Türleri   | Projeden Beklenen Sonuç ve Etkiler |
 | ------------- | ------------- |
 | Bilimsel/Akademik   |  Projemiz, üniversite öğrencilerinin notlandırılmasında izlenen farklı bir yolun uygulamasıdır. Bu nedenle  eğitim ve öğretimde yenilikçi yaklaşımların, biz öğrenciler tarafından desteklenmesi bakımından oldukça büyük önem taşır. Projemizin başarılı olması durumunda okulumuz Uludağ Üniversitesi'ne ait internet sitesi için bir makale ve sunum hazırlanabilir.|
